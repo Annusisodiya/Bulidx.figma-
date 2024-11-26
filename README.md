@@ -1,8 +1,5 @@
 # Bulidx.figma-
-A modern web application built with the following technologies to deliver a dynamic, interactive, and responsive user experience:  
-
-
-Key Features:
+ Key Features:
 
 Dynamic UI with reusable components.
 Responsive design using Tailwind CSS.
